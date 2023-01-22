@@ -19,15 +19,13 @@
 <a href="https://codeforces.com/profile/kirolosmedhat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kirolosmedhat" height="30" width="40" /></a>
 </p>
 
-
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <div align="center">
+<p align="left">
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,kotlin,c,cs,cpp,java,py)](https://skillicons.dev)
 <br/>
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,angular,atom,firebase,git,github,gradle,idea,linux,mongodb,mysql,sqlite,stackoverflow,visualstudio,vscode,xd)](https://skillicons.dev)
 <br/>
-
 
 <!--
 <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
@@ -46,11 +44,10 @@
 <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6">
 -->
 
-</div> </p>
+ </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlosmedhat&show_icons=true&locale=en&layout=compact" alt="carlosmedhat" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlosmedhat&show_icons=true&locale=en" alt="carlosmedhat" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carlosmedhat&" alt="carlosmedhat" /></p>
-
