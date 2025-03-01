@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Orchestra Systems**
 
-- 🌱 I’m currently learning **Android**
+- 🌱 I’m currently learning **Full_Stack Developer (Angular & .Net)**
 
 - 💬 Ask me about **C++ , java , Kotlin**
 
